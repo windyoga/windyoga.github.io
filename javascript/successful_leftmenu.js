@@ -1,127 +1,127 @@
 document.write("<table width='100%' border='1' cellpadding='4' cellspacing='1' bordercolor='#EC8C2D'>");
 document.write("      <tr>");
 if (varleft!=6) {
-	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful.htm'>°g¤Hªº·ìÏÉ<br />¹ù¨|¬À</a></td>");
+	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful.htm'>è¿·äººçš„ç‘œçˆ<br />å»–è‚²çŠ</a></td>");
 } else {
-	document.write("        <td align='center' bgcolor='#E38317'><a href='successful.htm'><font color='#ffffff'>°g¤Hªº·ìÏÉ<br />¹ù¨|¬À</a></font></td>");
+	document.write("        <td align='center' bgcolor='#E38317'><a href='successful.htm'><font color='#ffffff'>è¿·äººçš„ç‘œçˆ<br />å»–è‚²çŠ</a></font></td>");
 }
 document.write("      </tr>");
 document.write("      <tr>");
 if (varleft!=7) {
-	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful7.htm'>¤p¬õÅÜ·Å¹¥¤F<br />§õ¬Õ¿o</a></td>");
+	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful7.htm'>å°ç´…è®Šæº«é¦´äº†<br />æç›ˆç©</a></td>");
 } else {
-	document.write("        <td align='center' bgcolor='#E38317'><a href='successful7.htm'><font color='#ffffff'>¤p¬õÅÜ·Å¹¥¤F<br />§õ¬Õ¿o</a></font></td>");
+	document.write("        <td align='center' bgcolor='#E38317'><a href='successful7.htm'><font color='#ffffff'>å°ç´…è®Šæº«é¦´äº†<br />æç›ˆç©</a></font></td>");
 }
 document.write("      </tr>");
 document.write("      <tr>");
 if (varleft!=8) {
-	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful8.htm'>§Úªº¬ü¦n·ì¦÷¸gÅç<br />Â²¥ÉÄË</a></td>");
+	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful8.htm'>æˆ‘çš„ç¾å¥½ç‘œä¼½ç¶“é©—<br />ç°¡ç‰é¨°</a></td>");
 } else {
-	document.write("        <td align='center' bgcolor='#E38317'><a href='successful8.htm'><font color='#ffffff'>§Úªº¬ü¦n·ì¦÷¸gÅç<br />Â²¥ÉÄË</a></font></td>");
+	document.write("        <td align='center' bgcolor='#E38317'><a href='successful8.htm'><font color='#ffffff'>æˆ‘çš„ç¾å¥½ç‘œä¼½ç¶“é©—<br />ç°¡ç‰é¨°</a></font></td>");
 }
 document.write("      </tr>");
 document.write("      <tr>");
 if (varleft!=9) {
-	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful9.htm'>·ìÏÉªº<§®>¦b³o¸Ì<br />³¯¬ü¨q</a></td>");
+	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful9.htm'>ç‘œçˆçš„<å¦™>åœ¨é€™è£¡<br />é™³ç¾ç§€</a></td>");
 } else {
-	document.write("        <td align='center' bgcolor='#E38317'><a href='successful9.htm'><font color='#ffffff'>·ìÏÉªº<§®>¦b³o¸Ì<br />³¯¬ü¨q</a></font></td>");
+	document.write("        <td align='center' bgcolor='#E38317'><a href='successful9.htm'><font color='#ffffff'>ç‘œçˆçš„<å¦™>åœ¨é€™è£¡<br />é™³ç¾ç§€</a></font></td>");
 }
 document.write("      </tr>");
 document.write("      <tr>");
 if (varleft!=10) {
-	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful10.htm'>¯«©_ªº¹B°Ê¡ã·ìÏÉ<br />³¯ªY½Ë</a></td>");
+	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful10.htm'>ç¥å¥‡çš„é‹å‹•ï½ç‘œçˆ<br />é™³æ¬£èª¼</a></td>");
 } else {
-	document.write("        <td align='center' bgcolor='#E38317'><a href='successful10.htm'><font color='#ffffff'>¯«©_ªº¹B°Ê¡ã·ìÏÉ<br />³¯ªY½Ë</a></font></td>");
+	document.write("        <td align='center' bgcolor='#E38317'><a href='successful10.htm'><font color='#ffffff'>ç¥å¥‡çš„é‹å‹•ï½ç‘œçˆ<br />é™³æ¬£èª¼</a></font></td>");
 }
 document.write("      </tr>");
 document.write("      <tr>");
 if (varleft!=11) {
-	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful11.htm'>Åı¤H¤WÅ}¤@°µ¦A°µªº·ìÏÉ -§õÀR©É</a></td>");
+	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful11.htm'>è®“äººä¸Šç™®ä¸€åšå†åšçš„ç‘œçˆ -æéœæ€¡</a></td>");
 } else {
-	document.write("        <td align='center' bgcolor='#E38317'><a href='successful11.htm'><font color='#ffffff'>Åı¤H¤WÅ}¤@°µ¦A°µªº·ìÏÉ -§õÀR©É</a></font></td>");
+	document.write("        <td align='center' bgcolor='#E38317'><a href='successful11.htm'><font color='#ffffff'>è®“äººä¸Šç™®ä¸€åšå†åšçš„ç‘œçˆ -æéœæ€¡</a></font></td>");
 }
 document.write("      </tr>");
 document.write("      <tr>");
 if (varleft!=12) {
-	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful12.htm'>§ó¦h¤£¦Pªº·PÄ²<br />½²¬ü²ú</a></td>");
+	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful12.htm'>æ›´å¤šä¸åŒçš„æ„Ÿè§¸<br />è”¡ç¾è‰</a></td>");
 } else {
-	document.write("	<td align='center' bgcolor='#E38317'><a href='successful12.htm'><font color='#ffffff'>§ó¦h¤£¦Pªº·PÄ²<br />½²¬ü²ú</a></font></td>");
+	document.write("	<td align='center' bgcolor='#E38317'><a href='successful12.htm'><font color='#ffffff'>æ›´å¤šä¸åŒçš„æ„Ÿè§¸<br />è”¡ç¾è‰</a></font></td>");
 }
 document.write("      </tr>");
 document.write("      <tr>");
 if (varleft!=13) {
-	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful13.htm'>°µ ¹ïªº¨Æ±¡-¨Óª±§a!!<br />³¯²QÁø</a></td>");
+	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful13.htm'>åš å°çš„äº‹æƒ…-ä¾†ç©å§!!<br />é™³æ·‘éœ</a></td>");
 } else {
-	document.write("        <td align='center' bgcolor='#E38317'><a href='successful13.htm'><font color='#ffffff'>°µ ¹ïªº¨Æ±¡-¨Óª±§a!!<br />³¯²QÁø</a></font></td>");
+	document.write("        <td align='center' bgcolor='#E38317'><a href='successful13.htm'><font color='#ffffff'>åš å°çš„äº‹æƒ…-ä¾†ç©å§!!<br />é™³æ·‘éœ</a></font></td>");
 }
 document.write("      </tr>");
 document.write("<tr>");
 if (varleft!=1) {
-	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful6.htm'>¦W¥D¼½-¨¦Ãh¸©</a></td>");
+	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful6.htm'>åä¸»æ’­-è°·æ‡·è±</a></td>");
 } else {
-	document.write("        <td align='center' bgcolor='#E38317'><a href='successful6.htm'><font color='#ffffff'>¦W¥D¼½-¨¦Ãh¸©</a></font></td>");
+	document.write("        <td align='center' bgcolor='#E38317'><a href='successful6.htm'><font color='#ffffff'>åä¸»æ’­-è°·æ‡·è±</a></font></td>");
 }
 document.write("      </tr>");
 document.write("      <tr>");
 if (varleft!=2) {
-	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful2.htm'>¦W¥D¼½-½±®a©y</a></td>");
+	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful2.htm'>åä¸»æ’­-è”£å®¶å®œ</a></td>");
 } else {
-	document.write("        <td align='center' bgcolor='#E38317'><a href='successful2.htm'><font color='#ffffff'>¦W¥D¼½-½±®a©y</a></font></td>");
+	document.write("        <td align='center' bgcolor='#E38317'><a href='successful2.htm'><font color='#ffffff'>åä¸»æ’­-è”£å®¶å®œ</a></font></td>");
 }
 document.write("      </tr>");
 document.write("      <tr>");
 if (varleft!=3) {
-	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful3.htm'>µÎÅé¤u§@ªÌ<br />²øÄR¥É</a></td>");
+	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful3.htm'>èˆ’é«”å·¥ä½œè€…<br />èŠéº—ç‰</a></td>");
 } else {
-	document.write("        <td align='center' bgcolor='#E38317'><a href='successful3.htm'><font color='#ffffff'>µÎÅé¤u§@ªÌ<br />²øÄR¥É</a></font></td>");
+	document.write("        <td align='center' bgcolor='#E38317'><a href='successful3.htm'><font color='#ffffff'>èˆ’é«”å·¥ä½œè€…<br />èŠéº—ç‰</a></font></td>");
 }
 document.write("      </tr>");
 document.write("      <tr>");
 if (varleft!=4) {
-	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful4.htm'>´o¤Hªº¯á´Õ°¼ÅsªÌ<br />¤ò¼zµX</a></td> </tr>");
+	document.write("        <td align='center' bgcolor='#F1A85F'><a href='successful4.htm'>æƒ±äººçš„è„Šæ¤å´å½è€…<br />æ¯›æ…§çª</a></td> </tr>");
 } else {
-	document.write("        <td align='center' bgcolor='#E38317'><a href='successful4.htm'><font color='#ffffff'>´o¤Hªº¯á´Õ°¼ÅsªÌ<br />¤ò¼zµX</a></font></td> </tr>");
+	document.write("        <td align='center' bgcolor='#E38317'><a href='successful4.htm'><font color='#ffffff'>æƒ±äººçš„è„Šæ¤å´å½è€…<br />æ¯›æ…§çª</a></font></td> </tr>");
 }
 document.write("	<tr>");
 if (varleft!=5) {
-	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful5.htm'>¯µ®Ñ-ªLÀR©É</a></td>");
+	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful5.htm'>ç§˜æ›¸-æ—éœæ€¡</a></td>");
 } else {
-	document.write("	<td align='center' bgcolor='#E38317'><a href='successful5.htm'><font color='#ffffff'>¯µ®Ñ-ªLÀR©É</a></font></td>");
+	document.write("	<td align='center' bgcolor='#E38317'><a href='successful5.htm'><font color='#ffffff'>ç§˜æ›¸-æ—éœæ€¡</a></font></td>");
 }
 document.write("	</tr>");
 document.write("	<tr>");
 if (varleft!=14) {
-	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful14.htm'>§Úªº·ìÏÉ¤§®È¡I-´H¬Ã</a></td>");
+	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful14.htm'>æˆ‘çš„ç‘œçˆä¹‹æ—…ï¼-å¯’ç</a></td>");
 } else {
-	document.write("	<td align='center' bgcolor='#E38317'><a href='successful14.htm'><font color='#ffffff'>§Úªº·ìÏÉ¤§®È¡I-´H¬Ã</a></font></td>");
+	document.write("	<td align='center' bgcolor='#E38317'><a href='successful14.htm'><font color='#ffffff'>æˆ‘çš„ç‘œçˆä¹‹æ—…ï¼-å¯’ç</a></font></td>");
 }
 document.write("	</tr>");
 document.write("	<tr>");
 if (varleft!=15) {
-	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful15.htm'>»P·ìÏÉªº²Ä¤@Ãş±µÄ²-¬R¿²</a></td>");
+	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful15.htm'>èˆ‡ç‘œçˆçš„ç¬¬ä¸€é¡æ¥è§¸-æ˜±è‡»</a></td>");
 } else {
-	document.write("	<td align='center' bgcolor='#E38317'><a href='successful15.htm'><font color='#ffffff'>»P·ìÏÉªº²Ä¤@Ãş±µÄ²-¬R¿²</a></font></td>");
+	document.write("	<td align='center' bgcolor='#E38317'><a href='successful15.htm'><font color='#ffffff'>èˆ‡ç‘œçˆçš„ç¬¬ä¸€é¡æ¥è§¸-æ˜±è‡»</a></font></td>");
 }
 document.write("	</tr>");
 document.write("	<tr>");
 if (varleft!=16) {
-	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful16.htm'>¤ß¤¤³Ì¹çÀRªº®É¨è-³¢¤p©j</a></td>");
+	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful16.htm'>å¿ƒä¸­æœ€å¯§éœçš„æ™‚åˆ»-éƒ­å°å§</a></td>");
 } else {
-	document.write("	<td align='center' bgcolor='#E38317'><a href='successful16.htm'><font color='#ffffff'>¤ß¤¤³Ì¹çÀRªº®É¨è-³¢¤p©j</a></font></td>");
+	document.write("	<td align='center' bgcolor='#E38317'><a href='successful16.htm'><font color='#ffffff'>å¿ƒä¸­æœ€å¯§éœçš„æ™‚åˆ»-éƒ­å°å§</a></font></td>");
 }
 document.write("	</tr>");
 document.write("	<tr>");
 if (varleft!=17) {
-	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful17.htm'>¥©¹J-®ß¤l</a></td>");
+	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful17.htm'>å·§é‡-æ —å­</a></td>");
 } else {
-	document.write("	<td align='center' bgcolor='#E38317'><a href='successful17.htm'><font color='#ffffff'>¥©¹J-®ß¤l</a></font></td>");
+	document.write("	<td align='center' bgcolor='#E38317'><a href='successful17.htm'><font color='#ffffff'>å·§é‡-æ —å­</a></font></td>");
 }
 document.write("	</tr>");
 document.write("	<tr>");
 if (varleft!=18) {
-	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful18.htm'>°¸µM-¤pºµºû¥§</a></td>");
+	document.write("	<td align='center' bgcolor='#F1A85F'><a href='successful18.htm'>å¶ç„¶-å°ç†Šç¶­å°¼</a></td>");
 } else {
-	document.write("	<td align='center' bgcolor='#E38317'><a href='successful18.htm'><font color='#ffffff'>°¸µM-¤pºµºû¥§</a></font></td>");
+	document.write("	<td align='center' bgcolor='#E38317'><a href='successful18.htm'><font color='#ffffff'>å¶ç„¶-å°ç†Šç¶­å°¼</a></font></td>");
 }
 document.write("	</tr>");
 document.write("</table>");
