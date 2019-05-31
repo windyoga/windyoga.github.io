@@ -1,12 +1,12 @@
 	$( document ).ready(function() {
-		$.preload('/img/top1.png',
-		  '/img/top2.png',
-		  '/img/top3.png',
-		  '/img/top4.png',
-		  '/img/top5.png',
-		  '/img/top6.png',
-		  '/img/top7.png',
-		  '/img/top8.png'
+		$.preload('/i/top1.png',
+		  '/i/top2.png',
+		  '/i/top3.png',
+		  '/i/top4.png',
+		  '/i/top5.png',
+		  '/i/top6.png',
+		  '/i/top7.png',
+		  '/i/top8.png'
 		);
 		$("#" + topwhat + "img").show();
 		$("#" + topwhat).addClass("red_focus");
