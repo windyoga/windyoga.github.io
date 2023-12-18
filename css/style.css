@@ -164,6 +164,7 @@ a:hover {
 		margin: 10 0px;
 		background-color: gray;
 		color: #000;
+		width: 90%;
 	}
 	.cbdb-menu li a {
 		line-height: 25px;
