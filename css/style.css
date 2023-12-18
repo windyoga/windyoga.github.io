@@ -161,7 +161,7 @@ a:hover {
 @media screen and (max-width: 978px) {
 	.cbdb-menu li {
 		float: unset;
-		margin: 10 0px;
+		margin: 5px 0px;
 		background-color: gray;
 		color: #000;
 		width: 90%;
@@ -169,6 +169,7 @@ a:hover {
 	.cbdb-menu li a {
 		line-height: 25px;
 		width:100%;
+		font-size:1.4em !important;
 	}
 }
 
