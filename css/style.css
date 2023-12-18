@@ -104,7 +104,7 @@ a:hover {
 	width:230px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 978px) {
 	.toplogo {
 		display:none;
 	}
@@ -143,6 +143,7 @@ a:hover {
 	font-size: 17px !important;
 	font-weight: 500;
 	letter-spacing: -0.03em;
+	color:#fff;
 }
 
 .cbdb-menu li a:visited {
@@ -157,7 +158,7 @@ a:hover {
 
 
 
-@media (max-width: 767px) {
+@media (max-width: 978px) {
 	.cbdb-menu li {
 		float: unset;
 		margin: 10 0px;
@@ -296,7 +297,7 @@ a:hover {
 	margin-top: 30px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 978px) {
 	.multiple-borders {
 		width: 100%;
 		margin-left:0px;
