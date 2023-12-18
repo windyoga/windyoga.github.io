@@ -373,3 +373,11 @@ a:hover {
         display:block !important;
     }
 }
+
+.dropdown .dropdown-menu {
+	font-size: 1.4em !important;
+}
+
+.dropdown-menu>li>a {
+	font-size: 1.1em !important;
+}

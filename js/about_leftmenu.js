@@ -8,10 +8,10 @@ document.write("		  <li class='list-group-item list-group-item-info " + (varleft
 document.write("		</ul>				");
 document.write("	</div>	");
 document.write("	<div class='dropdown hidden-lg hidden-md col-sm-12 col-xs-12'style='padding:0px;'>	");
-document.write("		<button class='btn btn-warning dropdown-toggle' type='button' data-toggle='dropdown' style='background:#952b2b;width:100%'>關於瑜珈");
+document.write("		<button class='btn btn-warning dropdown-toggle' type='button' data-toggle='dropdown' style='background:#952b2b;width:100%;font-size:1.1em !important;'>關於瑜珈");
 document.write("			<span class='caret'></span>	");
 document.write("		</button>	");
-document.write("		<ul class='dropdown-menu' style='width:100%'>	");
+document.write("		<ul class='dropdown-menu' style='width:100%;font-size:1.1em !important;'>	");
 document.write("		  <li><a href='aboutyoga.htm'>瑜伽好處</a></li>	");
 document.write("		  <li><a href='aboutyoga.htm#space'>瑜伽意境</a></li>	");
 document.write("		  <li><a href='aboutyoga2.htm'>Windy 小叮嚀</a></li>	");

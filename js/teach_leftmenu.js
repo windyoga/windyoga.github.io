@@ -10,10 +10,10 @@ document.write("		  <li class='list-group-item list-group-item-info " + (varleft
 document.write("		</ul>				");
 document.write("	</div>	");
 document.write("	<div class='dropdown hidden-lg hidden-md col-sm-12 col-xs-12'style='padding:0px;'>	");
-document.write("		<button class='btn btn-primary dropdown-toggle' type='button' data-toggle='dropdown' style='background:#95522b;width:100%'>老師	");
+document.write("		<button class='btn btn-primary dropdown-toggle' type='button' data-toggle='dropdown' style='background:#95522b;width:100%;font-size:1.1em !important;'>老師	");
 document.write("			<span class='caret'></span>	");
 document.write("		</button>	");
-document.write("		<ul class='dropdown-menu' style='width:100%'>	");
+document.write("		<ul class='dropdown-menu' style='width:100%;font-size:1.1em !important;'>	");
 document.write("		  <li><a href='teacher.htm'>華云老師</a></li>	");
 document.write("		  <li><a href='teacher7_shi.htm'>英玲老師</a></li>	");
 document.write("		  <li><a href='teacher9.htm'>瑞雲老師</a></li>	");
