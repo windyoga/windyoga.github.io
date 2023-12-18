@@ -25,8 +25,8 @@ document.write("			  <li><a href='teacher.htm' class='red topmenu' id=top4>地�
 document.write("			  <li><a href='air_teacher.htm' class='red topmenu' id=top5>空中瑜珈</a> </li> ");
 document.write("			  <li><a href='schedule.htm' class='red topmenu' id=top6>授課時間</a> </li> ");
 document.write("			  <li><a href='contact.htm' class='red topmenu' id=top7>聯絡方式</a> </li> ");
-document.write("			  <li ><a href='https://www.facebook.com/windyoga' class='red topmenu' id=top8 target=_blank><image src=img/icon_fb.png  style='width: 15px;margin-right: 5px;vertical-align: middle;'>Facebook</a> </li> ");
-document.write("			  <li ><a href='https://www.instagram.com/reel/C0EX3AVRJXU/?igshid=NjZiM2M3MzIxNA==' class='red topmenu' id=top8 target=_blank><image src=img/icon_ig.png style='width: 15px;margin-right: 5px;vertical-align: middle;'>Instagram</a> </li> ");
+document.write("			  <li ><a href='https://www.facebook.com/windyoga' class='red topmenu' id=top8 target=_blank><image src=img/icon_fb.png  style='width: 15px;margin-right: 5px;vertical-align: middle;'>FB</a> </li> ");
+document.write("			  <li ><a href='https://www.instagram.com/reel/C0EX3AVRJXU/?igshid=NjZiM2M3MzIxNA==' class='red topmenu' id=top8 target=_blank><image src=img/icon_ig.png style='width: 15px;margin-right: 5px;vertical-align: middle;'>IG</a> </li> ");
 document.write("			</ul> ");
 document.write("		</td> ");
 document.write("	</tr> ");
